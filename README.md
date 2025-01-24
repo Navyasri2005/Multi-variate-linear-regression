@@ -88,6 +88,7 @@ This project demonstrates the implementation of multivariate linear regression f
 
 
 ## Contact
-Gmail-navyasrigude3@gmail.com
+Gmail -navyasrigude3@gmail.com
+
 Linkedin-www.linkedin.com/in/navyasrigude032
 
